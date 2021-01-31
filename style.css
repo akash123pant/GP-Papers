@@ -1,0 +1,77 @@
+p{
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color: #606060;
+}
+
+i{
+    color: #2cccd0;
+}
+
+.upper-div{
+font-size: 1.3rem;
+padding: 10px 0 20px 0;
+color: white;
+}
+
+.container my-5{
+    width: 100%; height: auto;
+    margin: 100px 0;
+    text-align: center;
+}
+
+.extra-div{
+background: #fff;
+border: medium none;
+padding: 50px!important;
+border-radius: 3px;
+transition: 0.3s;
+}
+
+.extra-div:hover{
+box-shadow: 0 0 20px 0 rgb(0,0,0,0.3);
+transform: translateY(-20px);
+}
+/*************************Controller Butten************************/
+.control{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/*************************section start*************************/
+
+.serviceoffer{
+    background: gray;
+    padding: 50px 0;
+    margin: 50px;
+
+}
+ 
+.names h1{
+    color: #2e2e2e;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.servicediv h2{
+    font-size: 00.9rem;
+    margin: 20px 0 50px 0;
+    font-weight: bold;
+    line-height: 1.1;
+    word-spacing: 4px;
+}
+ 
+.service-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.progress{
+    height: 0.6rem!important;
+    margin-bottom: 25px!important;
+}
+
+/*************************section start*************************/
