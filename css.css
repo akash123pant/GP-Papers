@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    background-color: rgb(165, 197, 238);
+}
+
+
+.slaybuss{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 8em;
+}
+
+
+h1 {
+    
+    margin: 20px;
+   
+    background-color: #fff;
+
+    text-transform: uppercase;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    color: black;
+    
+   
+}
+h1:hover{
+    color: white;
+    background-color: black;
+    transition : all 0.5s;
+}
+p{
+    margin: 20px;
+    color: rgb(9, 93, 141);
+    font-size: 30px;
+}
+.branch  {
+    width: 80%;
+    background:rgb(165, 197, 238);
+    border: medium none;
+    padding: 50px!important;
+    border-radius: 3px;
+    transition: 0.3s;
+    }
+.branch:hover{
+    box-shadow: 0 0 20px 0 rgb(0,0,0,0.3);
+    transform: translateY(-20px);
+    background-color: #fff);
+  
+    
+    }
+.branch a{
+    margin: 30px;
+
+       color: black; 
+    font-size: 20px;
+    
+    font-style: italic;
+    border-width: 10px;
+}
+.section{
+    text-align: center;
+}
